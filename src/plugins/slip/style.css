@@ -1,0 +1,11 @@
+.slip-read {
+    color: var(--text-muted) !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-weight: bold !important;
+    position: absolute !important;
+    top: -18px !important;
+    right: 0 !important;
+    gap: 5px !important;
+}
